@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Aimee Maurais is a third-year PhD student at MIT. She works with Professor [Youssef Marzouk](https://uqgroup.mit.edu/) and is part of the Center for Computational Science and Engineering. Prior to beginning her studies at MIT she received bacherlor's degrees in Mathematics and Computational Modeling and Data Analytics from Virginia Tech (2019) and spent some time on the technical staff at MIT Lincoln Laboratory. 
+Aimee Maurais is a third-year PhD student at MIT. She works with Professor [Youssef Marzouk](https://uqgroup.mit.edu/) and is part of the Center for Computational Science and Engineering. Prior to beginning her studies at MIT she received bachelor's degrees in Mathematics and Computational Modeling and Data Analytics from Virginia Tech (2019) and spent some time on the technical staff at MIT Lincoln Laboratory. 
 
 Research Interests
 ======
