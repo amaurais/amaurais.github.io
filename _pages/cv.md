@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* S.M. Computational Science and Engineering, Massachusetts Institute of Technology, 2022
+* B.S. Mathematics, Virginia Tech, 2019
+* B.S. Computational Modeling and Data Analytics, Virginia Tech, 2019
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* MIT Lincoln Laboratory: Associate Technical Staff (2019-2021)
+  * Modeling and simulation, algorithm design, and software development for threat detection
   
-Skills
+Selected Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Science Foundation Graduate Research Felllow, 2020-2025
+* College of Science Outstanding Senior, Virginia Tech, 2019
+* Mathematical Contest in Modeling Outstanding Winner, 2018 & 2019
 
 Publications
 ======
@@ -54,6 +44,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Outreach
 ======
-* Currently signed in to 43 different slack teams
+* Broader Engagement (BE) Committee, Sustainable Horizons Institue, 2019-Present
+  * Housing Chair, BE at SIAM Mathematics of Data Science 2022
+  * Social Chair and Gather.town Czar, BE at SIAM Computational Science and Engineering 2021
+* Recent College Graduate Employee Resource Group Committee, MITLL, 2020-2021
+* Women in Data Science Blacksburg Co-Ambassador, 2019
