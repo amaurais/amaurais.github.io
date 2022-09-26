@@ -3,6 +3,7 @@ title: "Polymath Jr. Program"
 collection: teaching
 type: "Undergraduate Research Mentoring"
 permalink: /teaching/2022-polymath
+venue: "Online"
 date: 2022-07-01
 location: "Online"
 ---
