@@ -3,8 +3,8 @@ title: "Parameter and Uncertainty Estimation for a Model of Atmospheric CO2 Obse
 collection: talks
 type: "Talk"
 permalink: /talks/2018-08-01-talk_layman
-venue: "Virginia Tech"
-date: 2018-04-01
+venue: "Virginia Tech Department of Mathematics"
+date: 2018-08-01
 location: "Blacksburg, VA"
 ---
 
