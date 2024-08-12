@@ -38,5 +38,15 @@ var addressPoints = [
     "Amherst MA, USA",
     42.386704300101975, 
     -72.52990129984389
+  ],
+  [
+    "Brisbane City, QLD, Australia",
+    -27.477541521385916, 
+    153.02885806920634
+  ],
+  [
+    "Jervis Bay, NSW, Australia",
+    -35.02027396531208, 
+    150.64197756502398
   ]
 ];
