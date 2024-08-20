@@ -6,4 +6,4 @@ date: 2024-01-08
 venue: 'International Conference on Machine Learning'
 citation: ' Aimee Maurais and Youssef Marzouk, &quot;Sampling in unit time with kernel Fisher-Rao flow.&quot; In <i>International Conference on Machine Learning.</i> PMLR, 2024.'
 ---
-[Access paper here](https://arxiv.org/abs/2401.03892){:target="_blank"}
+[Access paper here](https://proceedings.mlr.press/v235/maurais24a.html){:target="_blank"}
