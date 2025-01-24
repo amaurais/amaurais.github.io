@@ -8,4 +8,6 @@ date: 2023-01-23
 location: "Hanover, NH"
 ---
 
+<!---
 I gave a talk about our recent work on Riemannian multifidelity covariance estimation (preprint forthcoming!) while visiting some colleages at Dartmouth. 
+---> 
