@@ -48,5 +48,10 @@ var addressPoints = [
     "Jervis Bay, NSW, Australia",
     -35.02027396531208, 
     150.64197756502398
+  ],
+  [
+    "Seattle, WA, USA",
+    47.61214328106322, 
+    -122.33100497783772
   ]
 ];
