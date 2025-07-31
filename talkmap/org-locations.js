@@ -63,6 +63,10 @@ var addressPoints = [
     "Forth Worth, TX, USA",
     32.74935140423947, 
     -97.32730438329642
+  ],
+  [
+    "Montreal, Quebec, Canada",
+    45.50355518462782, 
+    -73.56079611077385
   ]
-
 ];
