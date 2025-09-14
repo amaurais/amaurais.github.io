@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here](https://drive.google.com/file/d/1vrgsiTY6tFzXGqABpXKUl-QRPTjYuRgy/view?usp=sharing) (updated 8 September, 2025). 
+For a copy of my full CV, please email me. 
 
 
