@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-For a copy of my full CV, please email me. 
+To request a copy of my CV, please email me. 
 
 
