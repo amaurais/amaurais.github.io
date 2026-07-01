@@ -70,12 +70,12 @@ var addressPoints = [
     -73.56079611077385
   ],
   [
-    "Santa Fe, NM",
+    "Santa Fe, NM, USA",
     35.700105543876205, 
     -105.90822631008452
   ],
   [
-    "Minneapolis, MN",
+    "Minneapolis, MN, USA",
     44.9690878143522, 
     -93.27271284387635
   ]
