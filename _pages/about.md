@@ -12,6 +12,8 @@ I am an NSF Mathematical Sciences Postdoctoral Research Fellow at Cornell Univer
 
 I completed my PhD in Computational Science and Engineering at MIT, where I was advised by Youssef Marzouk, in 2026. Prior to beginning my graduate work I earned bachelor's degrees in Mathematics and Computational Modeling and Data Analytics from Virginia Tech (2019) and spent some time on the technical staff at MIT Lincoln Laboratory. My work has been funded by the National Science Foundation and Google. 
 
+**In Fall 2027 I will join Georgia Tech's [School of Computational Science and Engineering](https://cse.gatech.edu/) as an Assistant Professor.**
+
 <!-- Research Interests
 ======
 Stuff about research goes here 
