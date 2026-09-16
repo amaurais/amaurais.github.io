@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For the most up-to-date list of my publications, please see <u><a href="{https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oWTrwK8AAAAJ&sortby=pubdate}">my Google Scholar profile</a>.</u>
+For the most up-to-date list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oWTrwK8AAAAJ&sortby=pubdate).
 
 {% include base_path %}
 
