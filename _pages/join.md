@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join"
+title: "Information for Prospective Students"
 permalink: /join/
 author_profile: true
 ---
