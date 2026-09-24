@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Research"
+  #   url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,8 +18,8 @@ main:
   # - title: "CV"
   #   url: /cv/
 
-  # - title: "Join"
-  #   url: /join/ 
+  - title: "Join"
+    url: /join/ 
     
   #- title: "Guide"
   #  url: /markdown/
