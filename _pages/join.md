@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Information for Prospective Students"
+title: "Information for Prospective PhD Students"
 permalink: /join/
 author_profile: true
 ---
